@@ -1,0 +1,12 @@
+{
+  "AppVersion": "1.0.0",
+  "Title": "Earth Live Wallpaper",
+  "Thumbnail": "thumbnail.png",
+  "Preview": "Reference.mp4",
+  "Desc": "This is earth live wallpaper. you can rotate in 3d space and wallpaper developed by Rajan using three.js library",
+  "Author": "Rajanstark",
+  "License": "MIT",
+  "Contact": "Naanthaan",
+  "Type": 2,
+  "FileName": "index.html"
+}
